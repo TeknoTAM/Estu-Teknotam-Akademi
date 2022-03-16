@@ -1,5 +1,4 @@
 # ESTÜ-TEKNOTAM AKADEMİ
----
 
 - Sorularınızı üstteki Issues -> New issue bölümünden sorabilirsiniz.
 
