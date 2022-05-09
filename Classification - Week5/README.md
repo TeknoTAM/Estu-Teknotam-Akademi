@@ -1,7 +1,7 @@
 ## Dataset Advice
 
 - You can use https://www.kaggle.com/datasets/sanikamal/rock-paper-scissors-dataset dataset for multi-class classification.
-- YOu can use https://www.microsoft.com/en-us/download/details.aspx?id=54765 dataset for binary classification.
+- You can use https://www.microsoft.com/en-us/download/details.aspx?id=54765 dataset for binary classification.
 
 ## Useful links:
 - https://stats.stackexchange.com/questions/255364 fine-tuning-vs-joint-training-vs-feature-extraction
