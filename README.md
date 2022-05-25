@@ -29,8 +29,6 @@ Dataset: https://www.cis.upenn.edu/~jshi/ped_html/pageshow1.html
 
 Sorularınız ve takıldığınız kısımlar için issue kısmını kullanabilirsiniz. Projeden keyif almanız dileğiyle, iyi çalışmalar.
 
-- Sorularınızı üstteki Issues -> New issue bölümünden sorabilirsiniz.
-
 # ESTÜ-TEKNOTAM AKADEMİ
 
 ![](https://github.com/TeknoTAM/Estu-Teknotam-Akademi/blob/master/assets/content.jpeg?raw=true)
