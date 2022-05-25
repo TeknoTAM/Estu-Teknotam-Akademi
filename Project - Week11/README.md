@@ -4,6 +4,8 @@
 ## Project Goal
 
 - Projedeki hedef resimler üzerinde object detection algoritması kullanılarak insanları tespit ettikten sonra, her tespit üzerinde insanı segmente edebilecek tek sınıflı bir semantic segmentasyon modeli geliştirmektir.
+
+- Bonus olarak kullandığınız modelleri TensorRT kütüphanesi ile optimize edebilmek projeyi daha verimli hale getirecektir. 
 ---
 ## Project Steps
 
@@ -15,7 +17,7 @@
 - Kendi bilgisayarında cuda kurulumunda zorlanan arkadaşlar kullanımı kolay olan google colab'den faydalanabilir, bu durum göz önüne alınarak drive'a yükleyebileceğiniz düşük boyutlu bir dataset tercih edildi.
 - Pazartesi günü yazılımın oluşturabildiğiniz kısmını beraber inceleyip, sizin de katılımınızla interaktif bir ders olmasını amaçlıyoruz.
 - Pazartesi gününe projenin tamamının yetişmesinden ziyade eksik de olsa koda hakim olduğunuz bir yazılımın ortaya çıkması temel beklentimiz olacak.
-
+- Yazılımı oluşturmak için Segmentasyon ve TensorRT derslerinde gördüğümüz algoritmalardan faydalanmanız işinizi kolaylaştıracaktır. 
 
 Dataset: https://www.cis.upenn.edu/~jshi/ped_html/pageshow1.html
 
