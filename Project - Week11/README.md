@@ -19,7 +19,7 @@
 - Pazartesi gününe projenin tamamının yetişmesinden ziyade eksik de olsa koda hakim olduğunuz bir yazılımın ortaya çıkması temel beklentimiz olacak.
 - Yazılımı oluşturmak için Segmentasyon ve TensorRT derslerinde gördüğümüz algoritmalardan faydalanmanız işinizi kolaylaştıracaktır. 
 
-Dataset: https://www.cis.upenn.edu/~jshi/ped_html/pageshow1.html
+Dataset: https://www.cis.upenn.edu/~jshi/ped_html/
 
 ---
 
