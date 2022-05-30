@@ -29,4 +29,5 @@ Dataset: https://www.cis.upenn.edu/~jshi/ped_html/
 - Custom bir object detection modeli eğitmekte zorlanan arkadaşlar insan sınıfı içeren hazır eğitilmiş bir model kullanabilir.(örnek olarak 10. haftada darknet'de kullandığımız pretrained modelini verebiliriz.)
 - Yazılımı oluşturmak için Segmentasyon ve TensorRT derslerinde gördüğümüz algoritmalardan faydalanmanız işinizi kolaylaştıracaktır. 
 
+
 Sorularınız ve takıldığınız kısımlar için issue kısmını kullanabilirsiniz. Projeden keyif almanız dileğiyle, iyi çalışmalar.
